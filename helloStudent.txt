@@ -1,0 +1,3 @@
+Hello student !
+This is our first code on Git...
+and you people love this.
